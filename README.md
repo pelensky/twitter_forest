@@ -1,4 +1,13 @@
 # Twitter Forest
+## Weekly Challenge
+### Week Nine
+
+The challenge this week was to create an app from scratch. We were assigned teams, and worked on it all week.
+
+Our project was designed to create a forest that grows when a tweet is mentioned.
+
+We'd originally started the project in Rails, but then made the decision to rewrite it in Javascript.
+
 ```
 As a user
 So that I can track my interests
